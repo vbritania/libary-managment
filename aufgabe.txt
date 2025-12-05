@@ -1,0 +1,4 @@
+Erstelle ein Java-Programm zur Verwaltung einer Bibliothek. 
+Das System soll Bücher verwalten können, Benutzer mit verschiedenen Rechten unterstützen und folgende
+Funktionen bieten: Buchausleihe, Rückgabe, Suche nach Büchern und eine übersichtliche Menüführung. 
+Verwende dazu die OOP-Prinzipien und implementiere mindestens die Klassen Book, User und Library.
